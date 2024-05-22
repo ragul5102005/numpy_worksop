@@ -7,6 +7,6 @@ def sum_of_digits(number):
         number //= 10
     return total
 
-# Example usage:
+
 number = 687
-print("Sum of digits:", sum_of_digits(number))  # Output: 21
+print("Sum of digits:", sum_of_digits(number))  
